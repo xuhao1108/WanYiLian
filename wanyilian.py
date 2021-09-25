@@ -272,8 +272,8 @@ class Details(Base):
 
 def run():
     config = {
-        'username': 'roda03',
-        'password': 'Zsx385227',
+        'username': '',
+        'password': '',
         'url': 'http://www.wanyilian.com/erp/',
         'excel_save_path': './info.xlsx',
         'min_qnt': 5,
